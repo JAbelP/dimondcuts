@@ -11,9 +11,9 @@ export const GoogleCarosole = () => {
         <GoogleReviews rate={5} name="Christy Gonzales" writtenReview="Hubby had to switch barbershops because of work schedule-needs Mondays. Nice shop. Felt like I was in the movie Barber Shop! Loved it!
                 No bad language allowed. BIG thumbs up! Hubby was VERY pleased with new cut. Tight & Clean." />
                 
-        <div className="google-review-right bg-gradient-to-l from-white to-transparent">
+        {/* <div className="google-review-right bg-gradient-to-l from-white to-transparent">
           <GoogleReviews rate={5} name="Right" writtenReview="Hubby had to switch barbershops because of work schedule-needs Mondays. Nice shop. Felt like I was in the movie Barber Shop! Loved it! No bad language allowed. BIG thumbs up! Hubby was VERY pleased with new cut. Tight & Clean." />
-        </div>
+        </div> */}
       </div>
     </div>
   );
