@@ -11,7 +11,7 @@ export const MainPageTopEyeCatch = () => {
         backgroundSize: 'cover',
         backgroundPosition: 'center',
         }}>
-    Moron.
+    
     </div>
   )
 }
